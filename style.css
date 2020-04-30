@@ -1,0 +1,12 @@
+.GPS {
+    background-image: url("gas-powered-stick.jpg");
+    background-color: orange;
+    flex-grow: 70vh;
+    text-shadow: black 3px 3px;
+    display:flex;
+    max-height: 70vh;
+}
+
+.center{
+    padding:200px 0;
+}
